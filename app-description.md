@@ -133,25 +133,29 @@
 
 2. **历史报告 - 近7天趋势**
    
-   ![1767864532232](https://github.com/user-attachments/assets/d9693b74-c540-4b72-8694-c390237ad996)
+   ![2](https://github.com/user-attachments/assets/73f8b80f-0134-4ecf-a613-ff5f5d10a9b8)
+
 
 
 
 3. **详细报告 - 单日分析**
 
-   ![1767864532241](https://github.com/user-attachments/assets/d616a3f5-92f5-40e1-ad84-0ba2ec35cb82)
+   ![3](https://github.com/user-attachments/assets/4cf0f8a3-2d06-44d5-ba87-b3617daf00ad)
+
 
 
 
 4. **设置界面**
 
-   ![1767864532226](https://github.com/user-attachments/assets/ce6382b3-cb65-401d-9da0-e8e2a300c9e2)
+   ![4](https://github.com/user-attachments/assets/f79398bc-775b-4771-be49-2debedd954dc)
+
 
 
 
 5. **后台通知**
    
-   ![1767864532216](https://github.com/user-attachments/assets/177bfcbc-b441-487c-87d1-3f807c7339b3)
+   ![5](https://github.com/user-attachments/assets/20819d3f-687f-4807-9c37-8d2075a6da22)
+
 
 
 ---
