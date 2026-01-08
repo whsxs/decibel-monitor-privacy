@@ -132,23 +132,26 @@
 建议准备以下截图（按顺序）：
 
 1. **主界面 - 实时监测**
+
    ![Screenshot_2026-01-08-17-17-18-225_com example decibelrecording](https://github.com/user-attachments/assets/7f0033e8-d4d7-4109-9624-a62e20a3627f)
 
-2. **历史报告 - 近7天趋势**
+3. **历史报告 - 近7天趋势**
    
    ![Screenshot_2026-01-08-17-18-25-416_com example decibelrecording](https://github.com/user-attachments/assets/abf46f6f-b763-4ca5-bf1d-5bf03faa785a)
 
-3. **详细报告 - 单日分析**
+4. **详细报告 - 单日分析**
+
    ![Screenshot_2026-01-08-17-18-20-101_com example decibelrecording](https://github.com/user-attachments/assets/f66d1853-b60b-4439-bb20-df18611ac4a0)
 
 
-4. **设置界面**
+5. **设置界面**
+
    ![Screenshot_2026-01-08-17-18-34-572_com example decibelrecording](https://github.com/user-attachments/assets/4f332157-1fac-416c-be18-cb1ac52be1d3)
 
 
-5. **后台通知**
+6. **后台通知**
+   
    ![Screenshot_2026-01-08-17-18-58-463_com miui home](https://github.com/user-attachments/assets/076167f9-93a2-44ac-9a5e-343ebe41d586)
-
 
 ---
 
