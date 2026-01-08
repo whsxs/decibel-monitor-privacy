@@ -127,7 +127,8 @@
 
 1. **主界面 - 实时监测**
 
-   ![Screenshot_2026-01-08-17-17-18-225_com example decibelrecording](https://github.com/user-attachments/assets/4da5bdec-28e1-4870-8f6f-d361187d348b)
+   ![1](https://github.com/user-attachments/assets/018d77d2-cfd7-434f-b1b6-d99e06782932)
+
 
 
 2. **历史报告 - 近7天趋势**
