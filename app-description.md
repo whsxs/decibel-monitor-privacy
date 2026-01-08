@@ -129,29 +129,34 @@
 
 ## 📸 应用截图说明
 
-建议准备以下截图（按顺序）：
 
 1. **主界面 - 实时监测**
 
-   ![Screenshot_2026-01-08-17-17-18-225_com example decibelrecording](https://github.com/user-attachments/assets/7f0033e8-d4d7-4109-9624-a62e20a3627f)
+   ![Screenshot_2026-01-08-17-17-18-225_com example decibelrecording](https://github.com/user-attachments/assets/4da5bdec-28e1-4870-8f6f-d361187d348b)
 
-3. **历史报告 - 近7天趋势**
+
+2. **历史报告 - 近7天趋势**
    
-   ![Screenshot_2026-01-08-17-18-25-416_com example decibelrecording](https://github.com/user-attachments/assets/abf46f6f-b763-4ca5-bf1d-5bf03faa785a)
-
-4. **详细报告 - 单日分析**
-
-   ![Screenshot_2026-01-08-17-18-20-101_com example decibelrecording](https://github.com/user-attachments/assets/f66d1853-b60b-4439-bb20-df18611ac4a0)
+   ![1767864532232](https://github.com/user-attachments/assets/d9693b74-c540-4b72-8694-c390237ad996)
 
 
-5. **设置界面**
 
-   ![Screenshot_2026-01-08-17-18-34-572_com example decibelrecording](https://github.com/user-attachments/assets/4f332157-1fac-416c-be18-cb1ac52be1d3)
+3. **详细报告 - 单日分析**
+
+   ![1767864532241](https://github.com/user-attachments/assets/d616a3f5-92f5-40e1-ad84-0ba2ec35cb82)
 
 
-6. **后台通知**
+
+4. **设置界面**
+
+   ![1767864532226](https://github.com/user-attachments/assets/ce6382b3-cb65-401d-9da0-e8e2a300c9e2)
+
+
+
+5. **后台通知**
    
-   ![Screenshot_2026-01-08-17-18-58-463_com miui home](https://github.com/user-attachments/assets/076167f9-93a2-44ac-9a5e-343ebe41d586)
+   ![1767864532216](https://github.com/user-attachments/assets/177bfcbc-b441-487c-87d1-3f807c7339b3)
+
 
 ---
 
